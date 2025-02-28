@@ -1,0 +1,10 @@
+---
+title: My first git repo
+author: Joseph Lee
+output: github_document
+---
+
+# My first commit
+
+Here is soem text that constitutes my first commit in my first repo.
+

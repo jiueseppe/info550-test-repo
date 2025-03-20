@@ -4,7 +4,8 @@ Joseph Lee
 
 # My first commit
 
-Here is text that makes up my first commit in my first repo.
+Here is text that makes up my first commit in my first repo. text for
+another commit. text for yet another commit
 
 # My second commit
 
@@ -12,7 +13,7 @@ Here is more text that will be added in my second commit.
 
 # My third commit
 
-Here is som text for my third.
+Here is some text for my third.
 
 # My test branch
 

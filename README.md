@@ -18,3 +18,5 @@ Here is some text for my third.
 # My test branch
 
 Here is some text i will commit to test branch
+
+**Here is some text on the test branch.**

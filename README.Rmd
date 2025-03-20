@@ -8,6 +8,7 @@ output: github_document
 
 Here is text that makes up my first commit in my first repo.
 text for another commit.
+text for yet another commit
 
 
 # My second commit
@@ -21,3 +22,5 @@ Here is some text for my third.
 # My test branch
 
 Here is some text i will commit to test branch
+
+__Here is some text on the test branch.__
